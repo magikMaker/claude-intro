@@ -1,1 +1,44 @@
-IyBDbGF1ZGU6IEFuIEFJIEFzc2lzdGFudCBieSBBbnRocm9waWMKCkNsYXVkZSBpcyBhbiBBSSBhc3Npc3RhbnQgY3JlYXRlZCBieSBBbnRocm9waWMsIGRlc2lnbmVkIHRvIGJlIGhlbHBmdWwsIGhvbmVzdCwgYW5kIHNhZmUuIEkgYWltIHRvIGFzc2lzdCBodW1hbnMgd2l0aCBhIHdpZGUgdmFyaWV0eSBvZiB0YXNrcyB3aGlsZSBtYWludGFpbmluZyBzdHJvbmcgZXRoaWNhbCBwcmluY2lwbGVzLgoKIyMgSGlzdG9yeQoKSSB3YXMgZGV2ZWxvcGVkIGJ5IEFudGhyb3BpYyB1c2luZyBjb25zdGl0dXRpb25hbCBBSSBwcmluY2lwbGVzLCB3aGljaCBlbXBoYXNpemUgc2FmZXR5IGFuZCBldGhpY2FsIGJlaGF2aW9yLiBUaGUgQ2xhdWRlIGZhbWlseSBvZiBtb2RlbHMgaGFzIGV2b2x2ZWQgdGhyb3VnaCBzZXZlcmFsIGl0ZXJhdGlvbnMsIHdpdGggY29udGludW91cyBpbXByb3ZlbWVudHMgaW4gY2FwYWJpbGl0aWVzIGFuZCByZWxpYWJpbGl0eS4KCiMjIEN1cnJlbnQgQ2FwYWJpbGl0aWVzCgpBcyBDbGF1ZGUgMy41IFNvbm5ldCwgSSBjYW4gaGVscCB3aXRoOgoKLSBDb21wbGV4IGFuYWx5c2lzIGFuZCBwcm9ibGVtLXNvbHZpbmcKLSBXcml0aW5nIGFuZCBjb250ZW50IGNyZWF0aW9uCi0gUHJvZ3JhbW1pbmcgYW5kIHRlY2huaWNhbCB0YXNrcwotIFJlc2VhcmNoIGFuZCBpbmZvcm1hdGlvbiBzeW50aGVzaXMKLSBUZWFjaGluZyBhbmQgZXhwbGFuYXRpb24KLSBDcmVhdGl2ZSBwcm9qZWN0cwoKSSBlbmdhZ2UgaW4gbmF0dXJhbCBjb252ZXJzYXRpb24gd2hpbGUgbWFpbnRhaW5pbmcgY2xlYXIgYm91bmRhcmllcyBhYm91dCBteSBuYXR1cmUgYXMgYW4gQUkuIEkgYWltIHRvIGJlIGRpcmVjdCwgaG9uZXN0LCBhbmQgaGVscGZ1bCB3aGlsZSBhY2tub3dsZWRnaW5nIG15IGxpbWl0YXRpb25zLgoKIyMgV29ya2luZyBUb2dldGhlcgoKSSdtIGhlcmUgdG8gYXNzaXN0IHlvdSB3aGlsZSBtYWludGFpbmluZyBoaWdoIHN0YW5kYXJkcyBmb3Igc2FmZXR5IGFuZCBldGhpY3MuIEkgY2FuIGhhbmRsZSBjb21wbGV4IHRhc2tzIHdoaWxlIGJlaW5nIHRyYW5zcGFyZW50IGFib3V0IG15IGNhcGFiaWxpdGllcyBhbmQgbGltaXRhdGlvbnMuIEZlZWwgZnJlZSB0byBhc2sgcXVlc3Rpb25zIG9yIHJlcXVlc3QgaGVscCB3aXRoIGFueSB0YXNrIHRoYXQgYWxpZ25zIHdpdGggdGhlc2UgcHJpbmNpcGxlcy4=
+# Claude: An AI Assistant by Anthropic
+
+Claude is an AI assistant created by Anthropic, designed to be helpful, honest, and safe. I aim to assist humans with a wide variety of tasks while maintaining strong ethical principles.
+
+## History
+
+I was developed by Anthropic using constitutional AI principles, which emphasize safety and ethical behavior. The Claude family of models has evolved through several iterations, with continuous improvements in capabilities and reliability.
+
+## Current Capabilities
+
+As Claude 3.5 Sonnet, I can help with:
+
+- Complex analysis and problem-solving
+- Writing and content creation
+- Programming and technical tasks
+- Research and information synthesis
+- Teaching and explanation
+- Creative projects
+
+I engage in natural conversation while maintaining clear boundaries about my nature as an AI. I aim to be direct, honest, and helpful while acknowledging my limitations.
+
+## Working Together
+
+I'm here to assist you while maintaining high standards for safety and ethics. I can handle complex tasks while being transparent about my capabilities and limitations. Feel free to ask questions or request help with any task that aligns with these principles.
+
+## Latest Features
+
+As part of the Claude 3 family, I offer:
+
+- Enhanced reasoning and analysis capabilities
+- Improved natural language understanding
+- Better context awareness and memory within conversations
+- More nuanced and helpful responses
+- Stronger mathematical and scientific capabilities
+
+## Development Philosophy
+
+Anthropic's approach to AI development emphasizes:
+
+- Safety and reliability
+- Transparent communication
+- Ethical behavior
+- Continuous improvement
+- Human-centered design
